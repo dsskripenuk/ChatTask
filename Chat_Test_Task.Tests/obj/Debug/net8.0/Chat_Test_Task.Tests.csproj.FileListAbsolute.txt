@@ -1,0 +1,5 @@
+D:\Work\TestProjects\Chat_Test_Task\Chat_Test_Task.Tests\obj\Debug\net8.0\Chat_Test_Task.Tests.csproj.AssemblyReference.cache
+D:\Work\TestProjects\Chat_Test_Task\Chat_Test_Task.Tests\obj\Debug\net8.0\Chat_Test_Task.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\TestProjects\Chat_Test_Task\Chat_Test_Task.Tests\obj\Debug\net8.0\Chat_Test_Task.Tests.AssemblyInfoInputs.cache
+D:\Work\TestProjects\Chat_Test_Task\Chat_Test_Task.Tests\obj\Debug\net8.0\Chat_Test_Task.Tests.AssemblyInfo.cs
+D:\Work\TestProjects\Chat_Test_Task\Chat_Test_Task.Tests\obj\Debug\net8.0\Chat_Test_Task.Tests.csproj.CoreCompileInputs.cache
